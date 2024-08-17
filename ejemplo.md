@@ -7,16 +7,22 @@
      - asda
 
 ´´´ cpp
-#include <iostream>
-using namespace std;
-int main() {
-    int* numPtr = new int; // Asigna memoria para un entero
-    *numPtr = 42; // Asigna un valor al espacio de memoria
+
+     #include <iostream>
+
+     using namespace std;
+
+     int main() {
+
+         int* numPtr = new int; // Asigna memoria para un entero
+    
+         *numPtr = 42; // Asigna un valor al espacio de memoria
+    
+         cout << "Valor: " << *numPtr << endl;
  
-    cout << "Valor: " << *numPtr << endl;
+         delete numPtr; // Libera la memoria asignada
  
-    delete numPtr; // Libera la memoria asignada
- 
-    return 0;
-}
+         return 0;
+     }
+     
 ´´´
