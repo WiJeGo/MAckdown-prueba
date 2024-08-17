@@ -2,12 +2,11 @@
 # HOLA 
 
 * Esto es para listas
-
-  1. Esto enumera
+1. Esto enumera
      - esto sub
      - asda
 
-´´´cpp
+´´´ cpp
 #include <iostream>
 using namespace std;
 int main() {
