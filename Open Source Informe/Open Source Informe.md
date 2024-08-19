@@ -1,4 +1,4 @@
-﻿![](Aspose.Words.bf1b29ba-8517-4381-9826-fd490627ac95.001.png)
+#                    ﻿![](Aspose.Words.bf1b29ba-8517-4381-9826-fd490627ac95.001.png)
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
