@@ -1,6 +1,6 @@
 ![](Aspose.Words.bf1b29ba-8517-4381-9826-fd490627ac95.001.png)
 
-**            UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
+**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
 **Ingeniería de Software y Ciencias de la Computación**
 
@@ -34,14 +34,14 @@ Góngora Castillejos, Williams Jesus (U20221C186)
 
 **Agosto 2024**
 
-**Registro de Versiones del Informe**
+# **Registro de Versiones del Informe**
 
 |**Versión**|**Fecha**|**Autor**|**Descripción de modificación**|
 | :- | :- | :- | :- |
 |TB1||||
 
 
-**Project Report Collaboration Insights**
+# **Project Report Collaboration Insights**
 
 **URL:**
 
@@ -49,7 +49,7 @@ Góngora Castillejos, Williams Jesus (U20221C186)
 
 
 
-**Contenido**
+# **Contenido**
 
 [Capítulo I: Introducción](#_eo586v2m7ok2)
 
@@ -248,7 +248,7 @@ Góngora Castillejos, Williams Jesus (U20221C186)
 
 
 
-**Student Outcome**
+# **Student Outcome**
 
 El curso contribuye al cumplimiento del Student Outcome ABET: 
 
