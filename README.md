@@ -1,4 +1,4 @@
-![](Open-Source-Informe/Aspose.Words.bf1b29ba-8517-4381-9826-fd490627ac95.001.png)
+![]([Open-Source-Informe/Aspose.Words.bf1b29ba-8517-4381-9826-fd490627ac95.001.png](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png))
 
 **UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**
 
