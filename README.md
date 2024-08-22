@@ -213,9 +213,14 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 </br></br></br></br></br></br>
 
 # Capítulo I: Introducción
-<a name="#1"></a>
+<a name="1"></a>
+
+
 ## 1.1. Startup Profile
 <a name="11"></a>
+
+"nombre" surge como 
+
 ### 1.1.1. Descripción de la Startup
 <a name="111"></a>
 ### 1.1.2. Perfiles de integrantes del equipo
