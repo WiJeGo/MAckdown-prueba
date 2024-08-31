@@ -83,6 +83,24 @@ El proceso de colaboración en el informe se realizó mediante commits constante
 
 GitHub también proporciona una visualización detallada del historial de las ramas principales, destacando los procesos de merge realizados. Todas las ramas se crearon siguiendo la metodología GitFlow, que garantiza una organización estructurada y eficiente del código. GitFlow facilita la colaboración en proyectos al establecer un flujo de trabajo estandarizado para el desarrollo, con ramas específicas para nuevas funcionalidades, corrección de errores y preparación de lanzamientos, asegurando un control de versiones más ordenado y predecible.
 
+|**Presentación de otros supuestos:**|
+|:--------------:|
+|Creo que mis clientes necesitan una solución integral que les permita monitorear y controlar el consumo de recursos en tiempo real, así como gestionar la producción y el personal asociado a sus maquinarias de manera eficiente y personalizada.|
+||
+||
+||
+||
+
+
+|<!-- -->|
+|:--------------:|
+|Creo que mis clientes necesitan una solución integral que les permita monitorear y controlar el consumo de recursos en tiempo real, así como gestionar la producción y el personal asociado a sus maquinarias de manera eficiente y personalizada.|
+||
+||
+||
+||
+
+
 
 Los integrantes son:
 
