@@ -39,8 +39,8 @@ width=30%"/>
 </br>
 
 
+<div align="center">
 
-<center>
 # Informe del Trabajo Final  
 Universidad Peruana de Ciencias Aplicadas
 
@@ -67,7 +67,8 @@ PeSoftware
 SmartFlow
 
 AGOSTO, 2024
-</center>
+
+</div>
 
 
 ## Team members:
