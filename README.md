@@ -6,21 +6,7 @@ style="display: block;
 margin-left:auto; 
 margin-right: auto; 
 width=30%"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=30%"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=30%"/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png
-style="display: block; 
-margin-left:auto; 
-margin-right: auto; 
-width=30%"/>
+
 
 <h5 style="text-align: center">UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h5>
 
