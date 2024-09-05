@@ -391,6 +391,109 @@ El curso contribuye al cumplimiento del Student Outcome ABET:</br>
 <a name="5211"></a>
 #### 5.2.1.2. Sprint Backlog 1
 <a name="5212"></a>
+
+<table border="1" cellpadding="4" cellspacing="0">
+  <tr>
+    <th colspan="1">Sprint #</th>
+    <th colspan="8">Sprint n</th>
+  </tr>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+    </th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / In-Process / To-Review / Done)</th>
+  </tr>
+  <!-- US021 -->
+  <tr>
+    <td>US021</td>
+    <td>Implementación y optimización del Landing Page del proyecto</td>
+    <td>TS01</td>
+    <td> Implementación del formulario de contacto</td>
+    <td>Implementar un formulario de contacto funcional con validación de campos obligatorios y un mensaje de confirmación de envío</td>
+    <td>2 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <!-- US022 -->
+  <tr>
+    <td>US022</td>
+    <td>Ver testimonios de clientes</td>
+    <td>TS02</td>
+    <td>Implementación de la sección de testimonios</td>
+    <td>Implementar una sección en la landing page que muestre testimonios verificados con imágenes de clientes, organizada visualmente</td>
+    <td>2 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <!-- US023 -->
+  <tr>
+    <td rowspan="2">US023</td>
+    <td rowspan="2">Ver características y beneficios del producto</td>
+    <td>TS03</td>
+    <td>Implementación de la lista de características del producto</td>
+    <td>Se implementa la sección sobre las principales características del producto, utilizando imagenes y descripciones detalladas para cada una.</td>
+    <td>2 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  
+  <tr>
+    <!-- Segunda tarea de la misma User Story -->
+    <td>TS04</td>
+    <td>Implementación de la lista de beneficios del producto</td>
+    <td>Se implementa una sección sobre los principales beneficios de nuestro producto.</td>
+    <td>2 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  
+  <!-- US024 -->
+  <tr>
+    <td>US024</td>
+    <td>Ver diferentes planes de precios</td>
+    <td>TS05</td>
+    <td>Ver diferentes planes de precios</td>
+    <td>Implementación de la tabla comparativa de planes de precios
+Description: Implementar una tabla que compare los diferentes planes de precios, con detalles de las características y costos de cada uno</td>
+    <td>2 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <!-- US025 -->
+  <tr>
+    <td>US025</td>
+    <td>Animaciones Interactivas para una Navegación Fluida y Atractiva</td>
+    <td>TS06</td>
+    <td>Animaciones Interactivas para una Navegación Fluida y Atractiva</td>
+    <td>Implementación de animaciones interactivas
+Description: Implementar animaciones fluidas y responsivas en diferentes secciones de la página para mejorar la experiencia del usuario</td>
+    <td>2 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <!-- US026 -->
+  <tr>
+    <td>US026</td>
+    <td>Acceder al dashboard después de iniciar sesión</td>
+    <td>TS07</td>
+    <td>Acceder al dashboard después de iniciar sesión</td>
+    <td>Implementación de redirección al dashboard
+Description: Programar la redirección automática del usuario al dashboard personalizado tras iniciar sesión exitosamente</td>
+    <td>2 horas</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+</table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 <a name="5213"></a>
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
