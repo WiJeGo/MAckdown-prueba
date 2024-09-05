@@ -38,6 +38,38 @@ width=30%"/>
 </br>
 </br>
 
+
+
+<center>
+# Informe del Trabajo Final  
+Universidad Peruana de Ciencias Aplicadas
+
+**UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS**  
+**CARRERA**  
+Ingeniería de Software y Ciencias de la Computación
+
+**CICLO**  
+2024-02
+
+**CURSO**  
+Aplicaciones Web
+
+**SECCIÓN**  
+SW51
+
+**DOCENTE**  
+Juan Carlos Tinoco Licas
+
+**STARTUP**  
+PeSoftware
+
+**PRODUCTO**  
+SmartFlow
+
+AGOSTO, 2024
+</center>
+
+
 ## Team members:
 | Nombre |Código|
 |:-------:|:----------:|
