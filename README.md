@@ -1,7 +1,22 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src=imagenes/UPC-logo.png
+<img src=[imagenes/UPC-logo.png](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=30%"/>
+<img src=[imagenes/UPC-logo.png](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=30%"/>
+<img src=[imagenes/UPC-logo.png](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=30%"/>
+<img src=[imagenes/UPC-logo.png](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
